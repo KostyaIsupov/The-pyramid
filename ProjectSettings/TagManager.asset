@@ -6,6 +6,7 @@ TagManager:
   tags:
   - FadePanel
   - Lava
+  - Statue
   layers:
   - Default
   - TransparentFX
